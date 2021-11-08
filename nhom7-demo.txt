@@ -4,6 +4,6 @@ Day la code cua du an - Nhom 7
 dong1
 dong2.1		//Tanh
 dong3.1		//Tanh
-dong4
-dong5
+dong4.1
+dong5.1
 dong6
